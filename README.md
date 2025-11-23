@@ -23,35 +23,52 @@
 
 🛠 Tech Stack
 .Technology	Purpose
+
 .Python	Core language
+
 .Tkinter	GUI development
+
 .googletrans	Language translation
+
 .messagebox	Pop-up alerts
 
 
 📌 How the App Works
 .Enter the text you want to translate.
+
 .Enter source language code (optional)
+
 .If empty → app automatically detects language
+
 .Enter target language code (optional)
+
 .If empty → English is the default
+
 .Click Translate to get the translated output
+
 .Click Clear to reset the fields
 
 
 🖼 GUI Overview
 .Text to translate → Multi-line text box
+
 .Source language → Example: en, hi, fr, auto
+
 .Target language → Example: en, hi, fr, de
 
 Buttons:
 .Translate (Yellow)
+
 .Clear (Yellow)
 
 
 📘 About the Project
 .This project is ideal for beginners and students learning:
+
 .GUI Programming (Tkinter)
+
 .Working with APIs
+
 .Python string handling
+
 .Desktop software development
