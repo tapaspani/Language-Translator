@@ -1,9 +1,7 @@
-<div aligm="center >
-  🌐 Language Translator – Python Tkinter
+🌐 Language Translator – Python Tkinter
 
-A simple and user-friendly Language Translator Desktop Application built using Python Tkinter and the Google Translate (googletrans) library.
-Users can input text, choose source/target languages, and instantly get translated output using Google's translation engine.
-</div>
+  A simple and user-friendly Language Translator Desktop Application built using Python Tkinter and the Google Translate (googletrans) library.
+  Users can input text, choose source/target languages, and instantly get translated output using Google's translation engine.
 
 
 ✨ Features
