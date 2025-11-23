@@ -5,8 +5,8 @@
 
 
 ✨ Features
-.🔤 Translate any text into any supported language
-.🌍 Auto-detect source language if left empty
+>🔤 Translate any text into any supported language
+>🌍 Auto-detect source language if left empty
 .🇬🇧 Default target language is English
 .🖥️ Clean and responsive Tkinter GUI
 .⚡ Real-time translation using googletrans
